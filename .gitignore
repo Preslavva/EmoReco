@@ -1,0 +1,19 @@
+# IDE
+.idea/
+
+# Large data
+AudioWAV/
+data/AudioWAV/
+*.wav
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
