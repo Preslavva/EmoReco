@@ -20,3 +20,6 @@ Thumbs.db
 
 # Generated features
 *.npy
+
+mel_png/
+
