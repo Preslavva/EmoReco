@@ -23,3 +23,8 @@ Thumbs.db
 
 mel_png/
 
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+
