@@ -26,5 +26,10 @@ mel_png/
 # PyTorch model checkpoints
 *.pt
 *.pth
+*.ckpt
+*.bin
 
+wav2vec2_cremad/
+wav2vec_cache/
+wav2vec_meanstd_cache/
 
