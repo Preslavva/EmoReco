@@ -33,3 +33,12 @@ wav2vec2_cremad/
 wav2vec_cache/
 wav2vec_meanstd_cache/
 
+mel_npy_test/
+mel_npy_train/
+mel_npy_val/
+mel_new_npy/
+
+wavlm_emb_test/
+wavlm_emb_train/
+wavlm_emb_val/
+
